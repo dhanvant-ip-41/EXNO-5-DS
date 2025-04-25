@@ -19,7 +19,7 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 Developed By : Dhanvant Kumar V                                                                                                                
-REG NO : 212224040070
+Reg No : 212224040070
 
 ![alt text](exp5ds_page-0001.jpg)
 ![alt text](exp5ds_page-0002.jpg)
